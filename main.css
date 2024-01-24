@@ -1,0 +1,35 @@
+.container {
+    margin-top: 80px;
+}
+
+.logo-img {
+    display: block;
+    margin: 0 auto 0px auto;
+    width: 350px;
+}
+
+.search-bar {
+    display: block;
+    width: 400px;
+    line-height: 20px;
+    padding: 10px 15px;
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 30px;
+    margin: 0 auto 30px auto
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(226, 222, 222, 0.836);
+}
